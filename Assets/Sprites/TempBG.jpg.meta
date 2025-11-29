@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1dc94c715adb32e4aac5f61728835633
+guid: dc2ab493e2caa9247a333d9e3e331171
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6163259768201993579
-    second: Placeholder Guy_0
+      213: -6305719924297196042
+    second: CheckeredTiling_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Placeholder Guy_0
+      name: CheckeredTiling_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 0
-        width: 14
-        height: 32
+        width: 1200
+        height: 1200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6dd226da1c488550800000000000000
-      internalID: 6163259768201993579
+      spriteID: 6fd992353259d78a0800000000000000
+      internalID: -6305719924297196042
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Placeholder Guy_0: 6163259768201993579
+      CheckeredTiling_0: -6305719924297196042
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
